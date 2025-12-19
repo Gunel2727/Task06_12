@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Task06_12\Task06_12\obj\Debug\net8.0\Task06_12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Task06_12\Task06_12\obj\Debug\net8.0\Task06_12.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Task06_12\Task06_12\obj\Debug\net8.0\Task06_12.AssemblyInfo.cs
+C:\Users\user\Desktop\Task06_12\Task06_12\obj\Debug\net8.0\Task06_12.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Task06_12\Task06_12\obj\Debug\net8.0\Task06_12.sourcelink.json
+C:\Users\user\Desktop\Task06_12\Task06_12\bin\Debug\net8.0\Task06_12.exe
+C:\Users\user\Desktop\Task06_12\Task06_12\bin\Debug\net8.0\Task06_12.deps.json
+C:\Users\user\Desktop\Task06_12\Task06_12\bin\Debug\net8.0\Task06_12.runtimeconfig.json
+C:\Users\user\Desktop\Task06_12\Task06_12\bin\Debug\net8.0\Task06_12.dll
+C:\Users\user\Desktop\Task06_12\Task06_12\bin\Debug\net8.0\Task06_12.pdb
+C:\Users\user\Desktop\Task06_12\Task06_12\obj\Debug\net8.0\Task06_12.dll
+C:\Users\user\Desktop\Task06_12\Task06_12\obj\Debug\net8.0\refint\Task06_12.dll
+C:\Users\user\Desktop\Task06_12\Task06_12\obj\Debug\net8.0\Task06_12.pdb
+C:\Users\user\Desktop\Task06_12\Task06_12\obj\Debug\net8.0\Task06_12.genruntimeconfig.cache
+C:\Users\user\Desktop\Task06_12\Task06_12\obj\Debug\net8.0\ref\Task06_12.dll

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Task06_12\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|solutionrelative:task06_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|solutionrelative:task06_12\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|solutionrelative:task06_12\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|solutionrelative:task06_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Basket.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Basket.cs",
               "RelativeDocumentMoniker": "Task06_12\\Basket.cs",
@@ -74,12 +74,11 @@
               "RelativeToolTip": "Task06_12\\Basket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T19:37:13.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T19:37:13.498Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Menu.cs",
               "RelativeDocumentMoniker": "Task06_12\\Menu.cs",
@@ -92,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\ProductService.cs",
               "RelativeDocumentMoniker": "Task06_12\\ProductService.cs",
@@ -100,8 +99,7 @@
               "RelativeToolTip": "Task06_12\\ProductService.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAD4vwoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T18:53:02.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T18:53:02.844Z"
             },
             {
               "$type": "Document",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "Task06_12\\AuthService.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAwwC0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T16:57:54.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T16:57:54.115Z"
             },
             {
               "$type": "Document",
@@ -126,12 +123,11 @@
               "RelativeToolTip": "Task06_12\\ValidationHelper.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA4wBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T16:53:54.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T16:53:54.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CartItem.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\CartItem.cs",
               "RelativeDocumentMoniker": "Task06_12\\CartItem.cs",
@@ -139,8 +135,7 @@
               "RelativeToolTip": "Task06_12\\CartItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T16:26:55.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T16:26:55.182Z"
             },
             {
               "$type": "Document",
@@ -152,25 +147,24 @@
               "RelativeToolTip": "Task06_12\\Users.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T16:07:32.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T16:07:32.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Program.cs",
               "RelativeDocumentMoniker": "Task06_12\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Program.cs",
               "RelativeToolTip": "Task06_12\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEAAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T18:46:22.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "JsonHelper.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\JsonHelper.cs",
               "RelativeDocumentMoniker": "Task06_12\\JsonHelper.cs",
@@ -178,8 +172,7 @@
               "RelativeToolTip": "Task06_12\\JsonHelper.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T16:42:45.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T16:42:45.829Z"
             },
             {
               "$type": "Document",
@@ -191,8 +184,7 @@
               "RelativeToolTip": "Task06_12\\Products.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T16:07:41.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T16:07:41.901Z"
             },
             {
               "$type": "Document",
@@ -204,8 +196,7 @@
               "RelativeToolTip": "Task06_12\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-19T16:39:52.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-19T16:39:52.799Z"
             },
             {
               "$type": "Document",
@@ -217,8 +208,7 @@
               "RelativeToolTip": "Task06_12\\Users.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-18T18:48:52.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-18T18:48:52.786Z"
             },
             {
               "$type": "Document",

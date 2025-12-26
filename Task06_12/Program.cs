@@ -62,7 +62,7 @@
                         Role = Role.User
                     });
 
-                    Console.WriteLine("Qeydiyyat uğurla tamamlandı!");
+                    Console.WriteLine("Qeydiyyat uğurla tamamlandı");
                 }
             }
         }

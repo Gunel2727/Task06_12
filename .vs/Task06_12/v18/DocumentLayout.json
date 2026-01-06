@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Task06_12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|solutionrelative:task06_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|solutionrelative:task06_12\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|solutionrelative:task06_12\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|solutionrelative:task06_12\\basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|solutionrelative:task06_12\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|solutionrelative:task06_12\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|solutionrelative:task06_12\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|solutionrelative:task06_12\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|solutionrelative:task06_12\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|solutionrelative:task06_12\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|solutionrelative:task06_12\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|solutionrelative:task06_12\\users.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|c:\\users\\user\\desktop\\task06_12\\task06_12\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87BE360D-80B1-4A21-BB9D-8A141BD67267}|Task06_12\\Task06_12.csproj|solutionrelative:task06_12\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Menu.cs",
+              "RelativeDocumentMoniker": "Task06_12\\Menu.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Menu.cs",
+              "RelativeToolTip": "Task06_12\\Menu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:16:09.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\ProductService.cs",
+              "RelativeDocumentMoniker": "Task06_12\\ProductService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\ProductService.cs",
+              "RelativeToolTip": "Task06_12\\ProductService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vwoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:16:09.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\AuthService.cs",
+              "RelativeDocumentMoniker": "Task06_12\\AuthService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\AuthService.cs",
+              "RelativeToolTip": "Task06_12\\AuthService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:16:09.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "Task06_12\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\ValidationHelper.cs",
+              "RelativeToolTip": "Task06_12\\ValidationHelper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:16:09.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\CartItem.cs",
+              "RelativeDocumentMoniker": "Task06_12\\CartItem.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\CartItem.cs",
+              "RelativeToolTip": "Task06_12\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:16:09.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Users.cs",
+              "RelativeDocumentMoniker": "Task06_12\\Users.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Users.cs",
+              "RelativeToolTip": "Task06_12\\Users.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:16:09.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Program.cs",
+              "RelativeDocumentMoniker": "Task06_12\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Program.cs",
+              "RelativeToolTip": "Task06_12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:16:09.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Basket.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Basket.cs",
+              "RelativeDocumentMoniker": "Task06_12\\Basket.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Basket.cs",
+              "RelativeToolTip": "Task06_12\\Basket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:16:09.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "Task06_12\\JsonHelper.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\JsonHelper.cs",
+              "RelativeToolTip": "Task06_12\\JsonHelper.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:16:09.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Products.cs",
+              "RelativeDocumentMoniker": "Task06_12\\Products.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Products.cs",
+              "RelativeToolTip": "Task06_12\\Products.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:16:09.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Role.cs",
+              "RelativeDocumentMoniker": "Task06_12\\Role.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Role.cs",
+              "RelativeToolTip": "Task06_12\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T12:16:09.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Users.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Users.json",
+              "RelativeDocumentMoniker": "Task06_12\\Users.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Users.json",
+              "RelativeToolTip": "Task06_12\\Users.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-06T12:16:09.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Products.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Products.json",
+              "RelativeDocumentMoniker": "Task06_12\\Products.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Task06_12\\Task06_12\\Products.json",
+              "RelativeToolTip": "Task06_12\\Products.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-06T12:16:09.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

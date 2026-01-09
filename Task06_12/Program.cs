@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            AuthService auth = new AuthService();
+            var  auth = new AuthService();
             while (true)
             {
                 Console.WriteLine("\n--- Login Menu ---");
